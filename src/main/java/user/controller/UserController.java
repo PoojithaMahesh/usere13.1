@@ -7,7 +7,7 @@ import user.dto.User;
 
 public class UserController {
 public static void main(String[] args) {
-	
+//	hii
 	
 	Scanner scanner=new Scanner(System.in);
 	System.out.println("WELCOME TO USER APPLICATION");
